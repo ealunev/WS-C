@@ -6,8 +6,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    //Санька бля, нужно развеятся... я те отвечаю.
-    //Может девочек возмем в саунке?..
+    //WORK?
 }
 
 MainWindow::~MainWindow()
