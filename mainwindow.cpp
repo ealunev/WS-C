@@ -7,7 +7,10 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     //YEAH! VERY GOOD
-    //lets go
+    //weeewerwewerSnbjhkvhbjsfdhbjsdfhbjfksd
+
+
+//    asdfsdf
 }
 
 MainWindow::~MainWindow()
