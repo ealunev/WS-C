@@ -7,7 +7,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     //YEAH! VERY GOOD
-
+    // for Zhenya
 }
 
 MainWindow::~MainWindow()
