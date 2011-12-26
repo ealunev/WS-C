@@ -7,6 +7,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     //WORK?
+    //fork now
 }
 
 MainWindow::~MainWindow()
