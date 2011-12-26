@@ -8,6 +8,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
     //YEAH! VERY GOOD
     // for Zhenya
+    // chto-to
 }
 
 MainWindow::~MainWindow()
